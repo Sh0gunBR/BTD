@@ -1,4 +1,4 @@
-# BtD
+# BTD
 this is my recon basic automation using my new technique called Binding.
 # Pre-Requirements:
   >Nmap
